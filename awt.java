@@ -30,6 +30,11 @@ class MenuExample
             {
                 flag = true;
                 break;
+                 div {
+  background-repeat: no-repeat, repeat;
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-blend-mode: lighten;
+}
             }
         }
 
