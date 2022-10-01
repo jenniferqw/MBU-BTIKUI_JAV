@@ -19,6 +19,17 @@ return false;
 //reduce num and square by dividing them by 10  
 num = num/10;   
 square = square/10;   
+   digits until the number becomes 0  4
+ahsd
+
+while (num > 0)   
+{   
+//find the remainder (last digit) of the variable num and square and comparing them  
+if (num % 10 != square % 10)   
+//returns false if digits are not equal  
+return false;   
+//reduce num and square by dividing them by 10  
+num = num/10;   
 }   <<<<<<< patch-6
 System.out.println(isrints the result accordingly  
 =======
