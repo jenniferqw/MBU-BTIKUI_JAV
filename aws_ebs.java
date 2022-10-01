@@ -22,7 +22,14 @@ return true;
 public static void main(String args[])   
 {   
 //number to be check      
+//calling the method and p
+//Driver code  
+public static void main(String args[])   
+{   
+//number to be check      
 //calling the method and prints the result accordingly  
+System.out.println(isAutomorphic(76) ? "Automorphic" : "Not Automorphic");   
+System.out.println(isrints the result accordingly  
 System.out.println(isAutomorphic(76) ? "Automorphic" : "Not Automorphic");   
 System.out.println(isAutomorphic(13) ? "Automorphic" : "Not Automorphic");   
 }   
