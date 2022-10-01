@@ -20,6 +20,15 @@ class MenuExample
          mb.add(menu);  
          f.setMenuBar(mb);  
          f.setSize(400,400);  
+          
+          
+//Driver code  
+public static void main(String args[])   
+{   
+//number to be check      
+//calling the method and prints the result accordingly  
+System.out.println(isAutomorphic(76) ? "Automorphic" : "Not Automorphic");   
+System.out.println(is
          f.setLayout(null);  
          f.setVisible(true);
           int num = 29;
